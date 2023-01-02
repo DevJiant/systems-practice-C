@@ -1,0 +1,70 @@
+osPrac0-DataResults
+
+SUMMARY OF STANDARD DEVIATION AND MEAN OF SEQUENCES: SCENARIOS 1-3 
+
+MEAN 
+----
+1) U SEQUENCE 
+2) V SEQUENCE 
+3) T SEQUENCE 
+4) VT SEQUENCE 
+5) UVT SEQUENCE
+
+SCENARIO 1 
+----------
+1) 4.60 
+2) 5.11 
+3) 4.75 
+4) 1.15 
+5) 2.36
+
+SCENARIO 2
+---------- 
+1) 998.27 
+2) 1024.25 
+3) 1023.10 
+4) 1.09 
+5) 917.96
+
+SCENARIO 3 
+----------
+1) 4050.91 
+2) 4096.43 
+3) 4093.39 
+4) 1.24 
+5) 3908.27
+
+
+
+STANDARD DEVIATION
+------------------
+1) U SEQUENCE 
+2) V SEQUENCE 
+3) T SEQUENCE 
+4) VT SEQUENCE 
+5) UVT SEQUENCE
+
+SCENARIO 1 
+----------
+1) 1.85 
+2) 0.89 
+3) 1.04 
+4) 0.42 
+5) 9.94
+
+SCENARIO 2 
+----------
+1) 577.43 
+2) 255.71 
+3) 255.32 
+4) 1.70 
+5) 2686.53
+
+SCENARIO 3 
+----------
+1) 2338.47 
+2) 1333 
+3) 1314.75 
+4) 8.94 
+5) 11783.51
+
